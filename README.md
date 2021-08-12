@@ -1,6 +1,4 @@
-### Hi there 👋
-
-`Contributions` talk louder than what is written here.
+### Hi there 👋, `contributions` talk louder than what is written here
 
 <!--
 **fitrh/fitrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
